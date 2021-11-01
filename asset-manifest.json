@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.6d29a457.chunk.css",
-    "main.js": "/static/js/main.6be27270.chunk.js",
-    "main.js.map": "/static/js/main.6be27270.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.6b98371c.js",
-    "runtime-main.js.map": "/static/js/runtime-main.6b98371c.js.map",
-    "static/js/2.d8417c24.chunk.js": "/static/js/2.d8417c24.chunk.js",
-    "static/js/2.d8417c24.chunk.js.map": "/static/js/2.d8417c24.chunk.js.map",
-    "static/js/3.ee8d2d56.chunk.js": "/static/js/3.ee8d2d56.chunk.js",
-    "static/js/3.ee8d2d56.chunk.js.map": "/static/js/3.ee8d2d56.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.6d29a457.chunk.css.map": "/static/css/main.6d29a457.chunk.css.map",
-    "static/js/2.d8417c24.chunk.js.LICENSE.txt": "/static/js/2.d8417c24.chunk.js.LICENSE.txt",
-    "static/media/basiersquaremono.412c5efb.woff": "/static/media/basiersquaremono.412c5efb.woff",
-    "static/media/basiersquaremono.e4ada8fa.woff2": "/static/media/basiersquaremono.e4ada8fa.woff2"
+    "main.css": "/polygonos_mint_dapp/static/css/main.6d29a457.chunk.css",
+    "main.js": "/polygonos_mint_dapp/static/js/main.6be27270.chunk.js",
+    "main.js.map": "/polygonos_mint_dapp/static/js/main.6be27270.chunk.js.map",
+    "runtime-main.js": "/polygonos_mint_dapp/static/js/runtime-main.fa05ba7f.js",
+    "runtime-main.js.map": "/polygonos_mint_dapp/static/js/runtime-main.fa05ba7f.js.map",
+    "static/js/2.cfc35188.chunk.js": "/polygonos_mint_dapp/static/js/2.cfc35188.chunk.js",
+    "static/js/2.cfc35188.chunk.js.map": "/polygonos_mint_dapp/static/js/2.cfc35188.chunk.js.map",
+    "static/js/3.ee8d2d56.chunk.js": "/polygonos_mint_dapp/static/js/3.ee8d2d56.chunk.js",
+    "static/js/3.ee8d2d56.chunk.js.map": "/polygonos_mint_dapp/static/js/3.ee8d2d56.chunk.js.map",
+    "index.html": "/polygonos_mint_dapp/index.html",
+    "static/css/main.6d29a457.chunk.css.map": "/polygonos_mint_dapp/static/css/main.6d29a457.chunk.css.map",
+    "static/js/2.cfc35188.chunk.js.LICENSE.txt": "/polygonos_mint_dapp/static/js/2.cfc35188.chunk.js.LICENSE.txt",
+    "static/media/basiersquaremono.412c5efb.woff": "/polygonos_mint_dapp/static/media/basiersquaremono.412c5efb.woff",
+    "static/media/basiersquaremono.e4ada8fa.woff2": "/polygonos_mint_dapp/static/media/basiersquaremono.e4ada8fa.woff2"
   },
   "entrypoints": [
-    "static/js/runtime-main.6b98371c.js",
-    "static/js/2.d8417c24.chunk.js",
+    "static/js/runtime-main.fa05ba7f.js",
+    "static/js/2.cfc35188.chunk.js",
     "static/css/main.6d29a457.chunk.css",
     "static/js/main.6be27270.chunk.js"
   ]
