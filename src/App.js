@@ -9,13 +9,13 @@ import GlobalFonts from './fonts/fonts';
 const truncate = (input, len) =>
   input.length > len ? `${input.substring(0, len)}...` : input;
 
-const firstRowImages = [1,2,3,4,5,6,7,8,9,10].map(image => (<div key={image}><img src={`./config/images/${image}.png`} /></div>));
+const firstRowImages = [1,2,3,4,5,6,7,8,9,10].map(image => (<div key={image}><img src={`/config/images/${image}.png`} /></div>));
 
-const secondRowImages = [11,12,13,14,15,16,17,18,19,20].map(image => (<div key={image}><img src={`./config/images/${image}.png`} /></div>));
+const secondRowImages = [11,12,13,14,15,16,17,18,19,20].map(image => (<div key={image}><img src={`/config/images/${image}.png`} /></div>));
 
-const thirdRowImages = [21,22,23,24,25,26,27,28,29,30].map(image => (<div key={image}><img src={`./config/images/${image}.png`} /></div>));
+const thirdRowImages = [21,22,23,24,25,26,27,28,29,30].map(image => (<div key={image}><img src={`/config/images/${image}.png`} /></div>));
 
-const fourthRowImages = [31,32,33,34,35,36,37,38,39,40].map(image => (<div key={image}><img src={`./config/images/${image}.png`} /></div>));
+const fourthRowImages = [31,32,33,34,35,36,37,38,39,40].map(image => (<div key={image}><img src={`/config/images/${image}.png`} /></div>));
 
 export const StyledButton = styled.button`
   border: none;
@@ -293,7 +293,7 @@ function App() {
               )}
           </s.Bottom>
         </s.Left>
-        <s.Right image={"/config/images/PolygonosGIF"} />
+        <s.Right image={"/config/images/PolygonosGIF.gif"} />
       </s.Screen>
       <s.Information>
         <div className="left">Polygonos is a collection of 1,010 abstract characters programmatically generated using more than 50 polygons and minted as NFTs.Polygonos are made up of a unique combination of hairstyles, face accessories, and tattoos, across 50+ traits randomized for varying rarities.</div>
