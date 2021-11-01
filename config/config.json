@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x8A8589d5736ebA6916303De4a14F56a75620DCf9",
+  "SCAN_LINK": "https://etherscan.io/address/0x8A8589d5736ebA6916303De4a14F56a75620DCf9",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Polygonos",
+  "SYMBOL": "PGONOS",
+  "MAX_SUPPLY": 1010,
+  "WEI_COST": 40000000000000000,
+  "DISPLAY_COST": 0.04,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/polygonos",
+  "SHOW_BACKGROUND": false
+}
