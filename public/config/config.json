@@ -9,10 +9,10 @@
   "NFT_NAME": "Polygonos",
   "SYMBOL": "PGONOS",
   "MAX_SUPPLY": 1010,
-  "WEI_COST": 40000000000000000,
-  "DISPLAY_COST": 0.04,
-  "GAS_LIMIT": 285000,
-  "MARKETPLACE": "Opeansea",
+  "WEI_COST": 10000000000000000,
+  "DISPLAY_COST": 0.01,
+  "GAS_LIMIT": 220000,
+  "MARKETPLACE": "Opensea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/polygonos",
   "SHOW_BACKGROUND": false
 }
